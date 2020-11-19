@@ -1,5 +1,6 @@
 {
   "name": "waffle-monorepo",
+  "version": "3.2.0",
   "author": "Ethworks",
   "homepage": "https://getwaffle.io/",
   "private": true,
